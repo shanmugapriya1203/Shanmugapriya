@@ -17,7 +17,7 @@ export default function Portfolio() {
 
   const skills = {
   languages: ['HTML5', 'CSS3', 'JavaScript', 'Python', 'Java'],
-  frameworks: ['React.js', 'Next.js', 'Express.js', 'Bootstrap', 'Tailwind CSS', 'Redux', 'Recoil'],
+  frameworks: ['React.js', 'Next.js', 'Express.js',"Flask", 'Bootstrap', 'Tailwind CSS', 'Redux', 'Recoil'],
   databases: ['MongoDB', 'MySQL', 'Firebase', 'AWS'],
   tools: ['Node.js', 'Git', 'Github', 'Postman', 'VS Code', 'Figma'],
   specializations: ['Game Development', 'Full Stack Development', 'Web Development', 'Gen AI', 'Problem Solving']
